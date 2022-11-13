@@ -29,5 +29,10 @@
             height: 5px;
             border: none;
         }
+        &__caja{
+           display: flex;
+           justify-content: center;
+           margin-top: 14px;
+        }
     }
 }
