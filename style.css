@@ -1,3 +1,12 @@
-
+.header__navegation__titulo {
+  background-color: brown;
+  text-align: center;
+  font-size: 3rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 1%;
+  color: blanchedalmond;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
 
 /*# sourceMappingURL=style.css.map */
