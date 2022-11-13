@@ -27,4 +27,17 @@
   margin-top: 14px;
 }
 
+.final__navegation__titulo2 {
+  color: black;
+}
+.final__navegation__seccion {
+  display: flex;
+}
+.final__navegation__caja2 {
+  border-color: aqua;
+  border: dashed;
+  background-color: brown;
+  margin-top: 14px;
+}
+
 /*# sourceMappingURL=style.css.map */

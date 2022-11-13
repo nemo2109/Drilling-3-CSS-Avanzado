@@ -33,6 +33,25 @@
            display: flex;
            justify-content: center;
            margin-top: 14px;
+           
+        }
+    }
+}
+
+.final{
+    &__navegation{
+        &__titulo2{
+            color: black;
+        }
+        &__seccion{
+            display: flex;
+
+        }
+        &__caja2{
+            border-color: aqua;
+            border:dashed;
+            background-color: brown;
+            margin-top: 14px;
         }
     }
 }
