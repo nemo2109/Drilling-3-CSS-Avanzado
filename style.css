@@ -22,9 +22,21 @@
   border: none;
 }
 .menu__navegation__caja {
-  display: flex;
-  justify-content: center;
+  position: relative;
+  display: inline-block;
+  text-align: center;
   margin-top: 14px;
+}
+.menu__navegation__texto {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5rem;
+  color: black;
 }
 
 .final__navegation__titulo2 {
