@@ -28,16 +28,17 @@
 }
 
 .final__navegation__titulo2 {
-  color: black;
+  color: blanchedalmond;
+  text-align: center;
 }
 .final__navegation__seccion {
   display: flex;
 }
 .final__navegation__caja2 {
-  border-color: aqua;
-  border: dashed;
+  border-style: double;
   background-color: brown;
   margin-top: 14px;
+  padding: 1%;
 }
 
 /*# sourceMappingURL=style.css.map */

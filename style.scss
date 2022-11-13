@@ -41,17 +41,19 @@
 .final{
     &__navegation{
         &__titulo2{
-            color: black;
+            color: blanchedalmond;
+            text-align: center;
         }
         &__seccion{
             display: flex;
 
         }
         &__caja2{
-            border-color: aqua;
-            border:dashed;
+            
+            border-style:double;
             background-color: brown;
             margin-top: 14px;
+            padding: 1%;
         }
     }
 }
