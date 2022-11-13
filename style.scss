@@ -46,8 +46,6 @@
             transform: translate(-50%, -50%);
             font-size: 5rem;
             color: black;
-            
-
         }
     }
 }
@@ -68,6 +66,16 @@
             background-color: brown;
             margin-top: 14px;
             padding: 1%;
+        }
+        &__caja3{
+            
+        }
+        &__parrafo1{
+            text-align: right;
+            color: blanchedalmond;
+            font-size: xx-large;
+            margin-top: 1%;
+            margin-bottom: 0%;
         }
     }
 }
